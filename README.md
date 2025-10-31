@@ -36,7 +36,7 @@ Project	Description	Tech Stack
 
 
 📫 Connect With Me
-📧 indlavikas57@email.com
+📧 indlavikas57@gmail.com
 
 
 ⚡ Fun Fact
