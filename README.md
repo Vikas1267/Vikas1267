@@ -3,7 +3,7 @@
 
 🚀 About Me
 
-I’m a 3rd-year B.Tech student passionate about backend development and system design.
+I’m a 4th-year B.Tech student and passionate about backend development and system design.
 I love building scalable APIs and microservices using Java, Spring Boot, and MySQL, and turning ideas into working products.
 
 🧩 I’ve built E-Commerce, Job Portal, and Blog Application backends using Spring Boot
