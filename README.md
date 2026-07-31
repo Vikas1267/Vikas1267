@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Omvikas%20Indla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Java+Full+Stack+Engineer;Spring+Boot+%7C+React.js+%7C+Microservices;Building+Scalable%2C+Production-Ready+Systems;Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Java+Full+Stack+Engineer;Spring+Boot+%7C+React.js+%7C+Microservices;Building+Scalable%2C+Production-Ready+Systems; Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
 </a>
 
 </div>
